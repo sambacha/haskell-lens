@@ -1,0 +1,15 @@
+# nix
+result
+result-*
+
+# direnv
+.direnv/
+
+# cabal
+dist/
+dist-newstyle/
+.configured
+cabal.project.local*
+
+# macOS
+.DS_Store
